@@ -1,0 +1,87 @@
+.banner {
+  background: url(banner.png) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.Circle {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #541691;
+}
+
+.Circle i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #fccc3f;
+  line-height: 40px;
+}
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+h4 {
+  font-family: "Poppins", sans-serif;
+}
+
+h5 {
+  font-family: "Poppins", sans-serif;
+}
+
+h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+h3.thick {
+  font-weight: bold;
+}
